@@ -17,7 +17,6 @@ class Solution:
             freq[c].append(n)
         
         ans = []
-        print(freq)
         for i in range(len(freq)-1, -1, -1):
             for j in freq[i]:
                 if k > 0:

@@ -18,17 +18,17 @@ class Solution:
         return ans
     
     
-    # Notes (6/5/2023)
-    # General idea:
-    # Convert a list of numbers into a set
-    # (since sets are significantly faster when it comes to determining if an object is present in the set)
-    # For each number in a list, detect if number is a start of a sequence or not 
-    #   (can be checked by seeing if there is a number that comes before the number in a set)
-    #   If it is, then count the length of the sequence and store if it is greater than the current max
+# Notes (6/5/2023)
+# General idea:
+# Convert a list of numbers into a set
+# (since sets are significantly faster when it comes to determining if an object is present in the set)
+# For each number in a list, detect if number is a start of a sequence or not 
+#   (can be checked by seeing if there is a number that comes before the number in a set)
+#   If it is, then count the length of the sequence and store if it is greater than the current max
 
-    # time Complexity: O(n) - we are visiting each element at most twice
+# time Complexity: O(n) - we are visiting each element at most twice
 
-    # space Complexity: O(n) - since we created a set which uses additional memory
+# space Complexity: O(n) - since we created a set which uses additional memory
 
         
 # @lc code=end
