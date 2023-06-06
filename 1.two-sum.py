@@ -14,8 +14,8 @@ class Solution:
                 return [i, prev[diff]]
             prev[nums[i]] = prev.get(nums[i], i)
  
- 
-# Notes
+
+# Notes (6/5/2023)
 # General idea:
 # Use hashmap to store the key: numbers, values: indices pair.
 # For each entry, check if the other pair that sum to the target exists in the hashmap.
