@@ -15,4 +15,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](/code/125.valid-palindrome.py)|Easy|
-<!-- |15|[3Sum](https://leetcode.com/problems/3sum/)| [Python](/code/15.3-sum.py)|Medium| -->
+|167|[Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Python](/code/167.two-sum-ii-input-array-is-sorted.py)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [Python](/code/15.3-sum.py)|Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Python](/code/11.container-with-most-water.py)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](/code/42.trapping-rain-water.py)|Hard|
