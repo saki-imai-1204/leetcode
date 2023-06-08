@@ -19,3 +19,13 @@
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [Python](/code/15.3-sum.py)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Python](/code/11.container-with-most-water.py)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](/code/42.trapping-rain-water.py)|Hard|
+
+### Sliding Window
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|121|[Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](/code/121.best-time-to-buy-and-sell-stock.py)|Easy|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](/code/3.longest-substring-without-repeating-characters.py)|Medium|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| [Python](/code/424.longest-repeating-character-replacement.py)|Medium|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)| [Python](/code/567.permutation-in-string.py)|Medium|
+<!-- |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Python](/code/76.minimum-window-substring.py)|Hard|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [Python](/code/239.sliding-window-maximum.py)|Hard| -->
