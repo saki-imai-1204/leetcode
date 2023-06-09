@@ -29,3 +29,8 @@
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)| [Python](/code/567.permutation-in-string.py)|Medium|
 <!-- |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Python](/code/76.minimum-window-substring.py)|Hard|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [Python](/code/239.sliding-window-maximum.py)|Hard| -->
+
+### Trees
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Python](/code/226.invert-binary-tree.py)|Easy|
