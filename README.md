@@ -30,6 +30,13 @@
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Python](/code/76.minimum-window-substring.py)|Hard|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [Python](/code/239.sliding-window-maximum.py)|Hard|
 
+### Stack
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|20|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| [Python](/code/20.valid-parentheses.py)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Python](/code/155.min-stack.py)|Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Python](/code/150.evaluate-reverse-polish-notation.py)|Medium|
+
 ### Trees
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
