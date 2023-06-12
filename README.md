@@ -36,6 +36,8 @@
 |20|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)| [Python](/code/20.valid-parentheses.py)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Python](/code/155.min-stack.py)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Python](/code/150.evaluate-reverse-polish-notation.py)|Medium|
+|22|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)| [Python](/code/22.generate-parentheses.py)|Medium|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Python](/code/739.daily-temperatures.py)|Medium|
 
 ### Trees
 | # | Title | Solution | Difficulty |
