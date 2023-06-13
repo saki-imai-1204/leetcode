@@ -44,6 +44,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [Python](/code/704.binary-search.py)|Easy|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](/code/74.search-a-2d-matrix.py)|Medium|
 
 ### Trees
 | # | Title | Solution | Difficulty |
