@@ -38,6 +38,12 @@
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Python](/code/150.evaluate-reverse-polish-notation.py)|Medium|
 |22|[Generate Parantheses](https://leetcode.com/problems/generate-parentheses/)| [Python](/code/22.generate-parentheses.py)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Python](/code/739.daily-temperatures.py)|Medium|
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/)| [Python](/code/853.car-fleet.py)|Medium|
+
+### Binary Search
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)| [Python](/code/704.binary-search.py)|Easy|
 
 ### Trees
 | # | Title | Solution | Difficulty |
