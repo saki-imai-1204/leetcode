@@ -45,6 +45,9 @@
 |---| ----- | -------- | ---------- |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [Python](/code/704.binary-search.py)|Easy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](/code/74.search-a-2d-matrix.py)|Medium|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Python](/code/875.koko-eating-bananas.py)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](/code/153.ind-minimum-in-rotated-sorted-array.py)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](/code/33.search-in-rotated-sorted-array.py)|Medium|
 
 ### Trees
 | # | Title | Solution | Difficulty |
