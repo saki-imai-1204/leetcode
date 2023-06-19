@@ -53,3 +53,4 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Python](/code/226.invert-binary-tree.py)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](/code/104.maximum-depth-of-binary-tree.py)|Easy|
