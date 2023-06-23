@@ -48,6 +48,7 @@
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Python](/code/875.koko-eating-bananas.py)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Python](/code/153.ind-minimum-in-rotated-sorted-array.py)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](/code/33.search-in-rotated-sorted-array.py)|Medium|
+|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Python](/code/981.time-based-key-value-store.py)|Medium|
 
 ### Trees
 | # | Title | Solution | Difficulty |
