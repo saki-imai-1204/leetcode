@@ -50,6 +50,11 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](/code/33.search-in-rotated-sorted-array.py)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Python](/code/981.time-based-key-value-store.py)|Medium|
 
+### Linked List
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](/code/206.reverse-linked-list.py)|Easy|
+
 ### Trees
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
