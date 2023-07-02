@@ -62,4 +62,6 @@
 |---| ----- | -------- | ---------- |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Python](/code/226.invert-binary-tree.py)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](/code/104.maximum-depth-of-binary-tree.py)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Python](/code/543.diameter-of-binary-tree.py)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python](/code/100.same-tree.py)|Easy|
+
