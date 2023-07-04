@@ -1,4 +1,4 @@
-## LeetCode - Blind 75 solutions
+## LeetCode solutions
 
 ### Arrays & Hashing
 | # | Title | Solution | Difficulty |
@@ -65,3 +65,4 @@
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Python](/code/543.diameter-of-binary-tree.py)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](/code/110.balanced-binary-tree.py)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python](/code/100.same-tree.py)|Easy|
+|572|[SubTree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)| [Python](/code/572.subtree-of-another-tree.py)|Easy|
