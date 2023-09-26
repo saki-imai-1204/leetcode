@@ -11,7 +11,7 @@ class Solution:
         newstr = ""
         for c in s:
             if c.isalnum(): newstr += c.lower()
-        return str == newstr[::-1]
+        return newstr == newstr[::-1]
 
     # Solution 2
     def isPalindrome(self, s: str) -> bool:
